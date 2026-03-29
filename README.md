@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID 
 # rr0702
-## Professor
+## Favorite Professor
 # Mr. Smith
